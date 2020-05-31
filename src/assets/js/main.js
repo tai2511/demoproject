@@ -7,8 +7,6 @@
     Author URI: https://colorlib.com/
     Version: 1.0
     Created: Colorlib*/
-alert('WELCOME TO MY PROJECT');
-console.log(hello);
 
     /*------------------
 		Search model

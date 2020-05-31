@@ -25,14 +25,12 @@
             ],
             "styles": [
               "src/styles.css",
-              "src/assets/css/scss.css",
               "src/assets/css/bootstrap.min.css",
               "src/assets/css/font-awesome.min.css",
               "src/assets/css/nice-select.css",
               "src/assets/css/magnific-popup.css",
               "src/assets/css/slicknav.min.css",
               "src/assets/css/style.css"
-
             ],
             "scripts": [
               "src/assets/js/jquery-3.3.1.min.js",
@@ -137,12 +135,6 @@
           }
         }
       }
-    }
-  },
-  "defaultProject": "helloworld",
-  "schematics": {
-    "@schematics/angular:component": {
-      "styleext": "scss"
     }
   }
 }
